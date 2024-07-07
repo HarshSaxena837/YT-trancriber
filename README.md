@@ -76,9 +76,7 @@ This project is a Streamlit web application that extracts the transcript from a 
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
